@@ -1,12 +1,19 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Welcome To The SigilLab Github Organization</h1></summary>
+    <description><span style="font-weight: thin;">We develop software solutions for Foxhole for some reason</span></description>
+  </ul>
+  <br>
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+## SigilLab products
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Decanus
+A 2nd generation Sigil verification bot for Discord
+
+<br>
+
+#### SigilLab
+A centralized web platform for organizing the Colonial faction
+
